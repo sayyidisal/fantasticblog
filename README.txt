@@ -1,8 +1,3 @@
-This is an open source content management system developed by ronald ngoda.
-email:ronniengoda@gmail.com
-phone:+254708344101
-website:www.ronaldngoda.rf.gd
-
 With this sytem you can easily and seamlessly setup your website/blog and manage it on the admin dashboard.
 --------------------------------Setup insstructions-----------------------------------------------
 1.After downloading the zipped file,paste it in the document root folder of your localhost.
